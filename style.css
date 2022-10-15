@@ -1,0 +1,21 @@
+body { background-color: #00FFFF; }
+main {
+    display: flex;
+    flex-direction: column;
+}
+#div_ph {
+    display: flex;
+    flex-direction: row;
+}
+nav { background-color: #E0FFFF;
+    display: flex;
+    flex-direction: column;
+}
+h1 { color: black;
+    font: 22pt/20pt cursive;
+    text-align: center;
+}
+p { font: 12pt/10pt cursive; }
+a { font: 12pt/10pt cursive;
+    text-decoration: none;
+}
